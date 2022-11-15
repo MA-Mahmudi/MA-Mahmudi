@@ -1,4 +1,4 @@
-<h2>Hello ✋ </h2>
+<h2>Hello there, I'm Amin 👋</h2>
 
 - 🔭 I'm currently working in Zoodex Food delivery, as an intern.
 - ✨ I’m interested in startups and marketing strategies.
