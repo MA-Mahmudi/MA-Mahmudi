@@ -4,6 +4,7 @@
 - ✨ I’m interested in startups and marketing strategies.
 - 🌱 I’m currently learning Vue.js and bootstrapping.
 
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ma-mahmudi&show_icons=ture&bg_color=21272E&text_color=ffffff&border_color=21272E) -->
 <!---
 MA-Mahmudi/MA-Mahmudi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
