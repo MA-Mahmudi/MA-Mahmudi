@@ -1,6 +1,6 @@
 <h3>Hello there, I'm Amin 👋</h3>
 <p>
-<a href="https://wakatime.com/@06ea4e7e-6a57-40c1-ad9c-151ac361c86e" target="_blank"><img src="https://wakatime.com/badge/user/06ea4e7e-6a57-40c1-ad9c-151ac361c86e.svg" alt="Total        time coded since Sep 29 2022" />
+<a href="https://wakatime.com/@06ea4e7e-6a57-40c1-ad9c-151ac361c86e"><img src="https://wakatime.com/badge/user/06ea4e7e-6a57-40c1-ad9c-151ac361c86e.svg" alt="Total time coded since Sep 29 2022" />
 </a>
 </p>
 
