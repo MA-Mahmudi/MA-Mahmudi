@@ -4,7 +4,7 @@
 </a>
 </p>
 
-- 🔭 I'm currently working in Zoodex Food delivery, as an intern.
+- 🔭 I'm currently working in Zoodex Food delivery.
 - ✨ I’m interested in startups and marketing strategies.
 - 🌱 I’m currently learning Vue.js and bootstrapping.
 
