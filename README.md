@@ -4,9 +4,9 @@
 </a>
 </p>
 
-- 🔭 I'm currently working in Zoodex Food delivery.
-- ✨ I’m interested in startups and marketing strategies.
-- 🌱 I’m currently learning Vue.js and bootstrapping.
+-  I’m currently learning Vue.js and fundamentals of programming.
+-  Experienced React.js and a little bit of PHP.
+-  Interested in startups.
 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ma-mahmudi&show_icons=ture&bg_color=161a1f&text_color=ffffff&border_color=ffffff) -->
