@@ -12,6 +12,6 @@
 
 <a href="https://github.com/MA-Mahmudi">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ma-mahmudi&show_icons=ture&bg_color=343a40&text_color=ffffff&border_color=161a1f)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ma-mahmudi&show_icons=true&theme=github_dark&hide_border=true&card_width=500&count_private=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ma-mahmudi&layout=compact&theme=github_dark&hide_border=true&card_width=450)
   
 </a>
