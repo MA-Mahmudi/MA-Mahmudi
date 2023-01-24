@@ -4,9 +4,9 @@
 </a>
 </p>
 
--  I’m currently learning Vue.js and fundamentals of programming.
+-  I’m currently learning Vue.js deeply.
 -  Experienced React.js and a little bit of PHP.
--  Interested in startups.
+-  Interested in startups and DevOps.
 
 <br/>
 
