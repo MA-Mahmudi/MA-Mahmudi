@@ -4,9 +4,10 @@
 </a>
 </p>
 
--  I’m currently learning Vue.js deeply.
--  Experienced React.js and a little bit of PHP.
--  Interested in startups and DevOps.
+-  I’m currently learning Vue.js deeply. 📚
+-  Experienced React.js and a little bit of PHP. 💻
+-  Interested in startups and DevOps. 🌱
+-  Reach me: [@aminemun18](https://t.me/aminemun18) 🤙
 
 <br/>
 
