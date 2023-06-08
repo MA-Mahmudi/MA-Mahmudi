@@ -13,6 +13,6 @@
 
 <a href="https://github.com/MA-Mahmudi">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ma-mahmudi&show_icons=true&theme=github_dark&hide_border=true&card_width=400&count_private=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ma-mahmudi&layout=compact&theme=github_dark&hide_border=true&card_width=350)
+![Anurag's GitHub stats](https://github-readme-stats-ma-mahmudi.vercel.app/api?username=ma-mahmudi&show_icons=true&theme=github_dark&hide_border=true&card_width=400)![Top Langs](https://github-readme-stats-ma-mahmudi.vercel.app/api/top-langs/?username=ma-mahmudi&layout=compact&theme=github_dark&hide_border=true&card_width=350)
   
 </a>
